@@ -1,4 +1,4 @@
-# CR7GPT Clone Backend
+# CR7GPT Backend
 This repository provides the backend services for managing sales in an admin console application using Spring Boot. It handles data persistence, business logic, and API endpoints for client-side interactions.
 
 ## Prerequisites
