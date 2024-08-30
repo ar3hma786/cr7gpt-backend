@@ -15,7 +15,7 @@ To set up the project locally, follow these steps:
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/ar3hma786/karmatest-backend.git
+git clone https://github.com/ar3hma786/cr7gpt-backend.git
 ```
 
 2. **Navigate to the project directory:**
